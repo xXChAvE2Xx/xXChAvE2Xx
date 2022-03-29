@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul Chavez</h1>
-<h3 align="center">A passionate frontend adn Backend developer from Mexico</h3>
+<h3 align="center">A passionate frontend and Backend developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxchave2xx&label=Profile%20views&color=0e75b6&style=flat" alt="xxchave2xx" /> </p>
 
