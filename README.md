@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chavez_2504" target="blank"><img src="https://img.shields.io/twitter/follow/chavez_2504?logo=twitter&style=for-the-badge" alt="chavez_2504" /></a> </p>
 
-- 🌱 I’m currently learning **CodeIgniter, VUE.js and Angular.**
+- 🌱 I’m currently learning **Node js.**
 
 - 🤝 I’m looking for help to **to learn new things and technologies.**
 
