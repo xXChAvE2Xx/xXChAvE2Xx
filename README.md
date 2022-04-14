@@ -1,4 +1,4 @@
-<h1 align="center">Holaaa👋, Soy Raul Chavez <p aling="left"><a href="https://www.codewars.com/users/Alien25_x/"><img src="https://www.codewars.com/users/Alien25_x/badges/micro" alt="Codewars"></a></p></h1>
+<h1 align="center">Holaaa👋, Soy Raul Chavez <p aling="left"><a target="blank" href="https://www.codewars.com/users/Alien25_x/"><img src="https://www.codewars.com/users/Alien25_x/badges/micro" alt="Codewars"></a></p></h1>
 <h3 align="center">A passionate frontend and Backend developer from Mexico</h3>
 
 - 🌱 Actualemente me encuentro aprendiendo **Node js** en el bootcamp de Launch X.
