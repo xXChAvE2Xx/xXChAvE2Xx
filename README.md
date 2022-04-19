@@ -7,9 +7,9 @@
 
 - 👨‍💻 Todos mis proyectos los puedes encontrar en [xXChAvE2Xx](https://github.com/xXChAvE2Xx)
 
-- 💬 Puedes preguntarme sobre **PHP and JavaScript** y con gusto te ayudare.
+- 💬 Puedes preguntarme sobre **PHP y JavaScript** y con gusto te ayudare.
 
-- 📫 Puedes contactarme por **raul25042000@hotmail.com**.
+- 📫 Puedes contactarme por **raulchavez.aguirre@proton.me**.
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
