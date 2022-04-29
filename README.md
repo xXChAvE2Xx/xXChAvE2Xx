@@ -8,6 +8,7 @@
 - 👨‍💻 Todos mis proyectos los puedes encontrar en [xXChAvE2Xx](https://github.com/xXChAvE2Xx)
 
 - 💬 Puedes preguntarme sobre **PHP y JavaScript** y con gusto te ayudare.
+- 🎮 Me encantan los videojuegos, puedes encontrarme en [Xbox](https://account.xbox.com/en-us/profile?gamertag=xXcHaVe2Xx3081) y [Steam](https://steamcommunity.com/id/raulSaladoconChile/)
 
 - 📫 Puedes contactarme por **raulchavez.aguirre@proton.me**.
 
