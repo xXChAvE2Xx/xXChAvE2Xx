@@ -15,7 +15,7 @@ const myInfo {
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
   goals: 'Become an expert in a technology like Javascript.'
-  };
+ };
   
   console.log(myInfo);
 
