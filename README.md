@@ -3,8 +3,6 @@
 
 
  ```javascript
-    
-
 const myInfo {
   pronouns: ['He', 'Him'],
   name: 'Raul',
