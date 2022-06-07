@@ -1,6 +1,30 @@
 <h1 align="center">Holaaa👋, Soy Raul Chavez <p aling="left"><a target="blank" href="https://www.codewars.com/users/Alien25_x/"><img src="https://www.codewars.com/users/Alien25_x/badges/micro" alt="Codewars"></a></p></h1>
 <h3 align="center">A passionate frontend and Backend developer from Mexico</h3>
 
+
+ ```javascript
+    
+
+const myInfo {
+  pronouns: ['He', 'Him'],
+  name: 'Raul',
+  lastName: 'Chavez',
+  title: ['Web Development', 'Telematics engineer'],
+  hardSkills: {
+    frontend: [ 'HTML5', 'CSS3', 'Javascript', 'VueJs', 'Bulma', 'Boostrap'],
+    backend: ['NodeJs', 'ExpressJs', 'Prisma', 'PostgreSQL', 'Jest', 'MySQL', 'PHP', 'C++'],
+    tools: ['Trello', 'Git', 'GitHub', 'Linux']
+    },
+  softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
+  goals: 'Become an expert in a technology like Javascript.'
+  };
+  
+  console.log(myInfo);
+
+  ```
+
+
+
 - 🤝 Estoy abierto aprender nuevas tecnologias y obtener conocimientos sobre otras areas.
 
 - 👨‍💻 Todos mis proyectos los puedes encontrar en [xXChAvE2Xx](https://github.com/xXChAvE2Xx)
