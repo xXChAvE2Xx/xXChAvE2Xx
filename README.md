@@ -11,7 +11,7 @@ const myInfo {
   hardSkills: {
     frontend: [ 'HTML5', 'CSS3', 'Javascript', 'VueJs', 'Bulma', 'Boostrap'],
     backend: ['NodeJs', 'ExpressJs', 'Prisma', 'PostgreSQL', 'Jest', 'MySQL', 'PHP', 'C++'],
-    tools: ['Trello', 'Git', 'GitHub', 'Linux']
+    tools: ['Trello', 'Git', 'GitHub', 'Linux', 'laravel']
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
   goals: 'Become an expert in a technology like Javascript.'
