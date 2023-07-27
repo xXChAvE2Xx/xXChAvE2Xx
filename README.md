@@ -7,14 +7,14 @@ const myInfo {
   pronouns: ['He', 'Him'],
   name: 'Raul',
   lastName: 'Chavez',
-  title: ['Web Development', 'Telematics engineer'],
+  title: ['Web Development Jr', 'Telematics engineer'],
   hardSkills: {
-    frontend: [ 'HTML5', 'CSS3', 'Javascript', 'VueJs', 'Bulma', 'Boostrap'],
-    backend: ['NodeJs', 'ExpressJs', 'Prisma', 'PostgreSQL', 'Jest', 'MySQL', 'PHP', 'C++'],
-    tools: ['Trello', 'Git', 'GitHub', 'Linux', 'laravel']
+    frontend: [ 'HTML5', 'TypeScript', 'Javascript', 'Angular', 'Boostrap'],
+    backend: ['NodeJs', 'PostgreSQL', 'SQLServer', 'PHP', 'Java'],
+    tools: ['Trello', 'Git', 'GitHub', 'GitHub', 'Linux', 'laravel']
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
-  goals: 'Become an expert in a technology like Javascript.'
+  goals: 'Become an expert in backend technologies.'
  };
   
   console.log(myInfo);
@@ -32,16 +32,25 @@ const myInfo {
 
 - 📫 Puedes contactarme por **raul25042000@hotmail.com**.
 
-<h3 align="left">Mis redes:</h3>
+<h3 align="left">Mi red:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raul-antonio-chavez-aguirre-26247b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-antonio-chavez-aguirre-26247b218/" height="30" width="40" /></a>
-<a href="https://instagram.com/ra.ca30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra.ca30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> </a> 
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/vue.svg" alt="Vue.js" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring-icon.svg" alt="SpringBoot" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://docs.oracle.com/en/java/java-components/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="Java" width="40" height="40"/> </a> 
+</p>
 
-![uff](https://media.giphy.com/media/1wANL9kM16LyszJjms/giphy.gif)
-#TuveFe
+
+
+![uff](https://64.media.tumblr.com/e5286ae5c12987113e3b867ae9a8f5f1/2ef0f36104e872a1-ba/s540x810/e3e84cb527c2821b9141d7e969f68011571033c6.gifv)
+#Oppenheimer
  ______________________________________________________________________________________________________________________________________________________________________
