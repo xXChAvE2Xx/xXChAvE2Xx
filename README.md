@@ -1,5 +1,5 @@
 <h1 align="center">Holaaa👋, Soy Raul Chavez <p aling="left"><a target="blank" href="https://www.codewars.com/users/Alien25_x/"><img src="https://www.codewars.com/users/Alien25_x/badges/micro" alt="Codewars"></a></p></h1>
-<h3 align="center">A passionate frontend and Backend developer from Mexico</h3>
+<h3 align="center">A passionate Backend developer from Mexico</h3>
 
 
  ```javascript
@@ -10,8 +10,8 @@ const myInfo {
   title: ['Web Development Jr', 'Telematics engineer'],
   hardSkills: {
     frontend: [ 'HTML5', 'TypeScript', 'Javascript', 'Angular', 'Boostrap'],
-    backend: ['NodeJs', 'PostgreSQL', 'SQLServer', 'PHP', 'Java'],
-    tools: ['Trello', 'Git', 'GitHub', 'GitHub', 'Linux', 'laravel']
+    backend: ['NodeJs', 'PostgreSQL', 'SQLServer', 'PHP', 'Java', 'Spring'],
+    tools: ['Trello', 'Git', 'GitHub', 'GitLab', 'Linux']
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
   goals: 'Become an expert in backend technologies.'
