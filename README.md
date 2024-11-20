@@ -1,5 +1,5 @@
 <h1 align="center">Holaaa👋, Soy Raul Chavez <p aling="left"><a target="blank" href="https://www.codewars.com/users/Alien25_x/"><img src="https://www.codewars.com/users/Alien25_x/badges/micro" alt="Codewars"></a></p></h1>
-<h3 align="center">A passionate Backend developer from Mexico</h3>
+<h3 align="center">A passionate Full Stack developer from Mexico</h3>
 
 
  ```javascript
@@ -7,11 +7,12 @@ const myInfo {
   pronouns: ['He', 'Him'],
   name: 'Raul',
   lastName: 'Chavez',
-  title: ['Web Development Jr', 'Telematics engineer'],
+  title: ['Full Stack Development Jr', 'Telematics engineer'],
   hardSkills: {
-    frontend: [ 'HTML5', 'TypeScript', 'Javascript', 'Angular', 'Boostrap'],
-    backend: ['NodeJs', 'PostgreSQL', 'SQLServer', 'PHP', 'Java', 'Spring'],
-    tools: ['Trello', 'Git', 'GitHub', 'GitLab', 'Linux']
+    frontend: [ 'HTML5', 'Javascript', 'Boostrap'],
+    backend: ['NodeJs', 'Java', 'Spring', 'Laravel', 'Ruby'],
+    dataBase: ['PostgreSQL', 'SQLServer'],
+    tools: ['Jira', 'Git', 'GitHub', 'GitLab', 'Linux']
     },
   softSkills: ['Collaboration', 'Team Work', 'Communication', 'Conflict & incidents Resolutions'],
   goals: 'Become an expert in backend technologies.'
@@ -47,11 +48,12 @@ const myInfo {
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring-icon.svg" alt="SpringBoot" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/en/java/java-components/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/rails.svg" alt="Rails" width="40" height="40"/></a> 
 </p>
 
 
 
-![uff](https://64.media.tumblr.com/e5286ae5c12987113e3b867ae9a8f5f1/2ef0f36104e872a1-ba/s540x810/e3e84cb527c2821b9141d7e969f68011571033c6.gifv)
+![uff](https://giphy.com/embed/i1JHRZSXO9LZZDHqii)
 <br>
 #Oppenheimer
  ______________________________________________________________________________________________________________________________________________________________________
